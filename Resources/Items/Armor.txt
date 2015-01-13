@@ -1,0 +1,36 @@
+//Armor Name
+//Armor Cost
+//Armor AC
+Clothing
+0gp
+0
+Hide Armor
+10gp
+1
+Fur Armor
+10 gp
+1
+Leather Armor
+20gp
+2
+Ring Mail Armor
+30gp
+3
+Scale Armor
+30 gp
+3
+Chain Mail Armor
+40gp
+4
+Banded Plate Armor
+50gp
+5
+Lamellar Armor
+50 gp
+5
+Plate Armor
+60gp
+6
+Shield
+10gp
+1

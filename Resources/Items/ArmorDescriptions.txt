@@ -1,0 +1,32 @@
+Banded Plate Armor
+Banded plate armor is made of over-lapping horizontal strips of laminated metal sewn over leather. It is comparable in protection to lamellar armor, and superior to chain mail. Banded plate is commonly worn as a cuirass with shoulder protection, with reinforced leather protecting the arms and legs. The chief historical examples are Sumerian overlapping plate armor and Roman lorica segmenta.
+//
+Chain Mail Armor
+Chain mail is made of small metal rings linked together in a pattern to form a mesh. Chain mail is superior in protection to leather-based armors but inferior to metal scale or plate-reinforced armors. Chain mail is commonly worn as a shirt and coif, with lighter chain, ring mail, or hardened leather protecting the arms and legs. Historical examples include Viking byrnies, Norman mail, and Roman lorica hamata.
+//
+Leather Armor
+Leather armor is made of hardened leather or laminated linen. Leather armor usually consists of spaulders (shoulder armor), cuirass, and tassets (flaps covering the groin and thighs). It is lighter but less protective then more reinforced leather armors such as ring mail. A historical example is Macedonian linothorax armor. 
+//
+Lamellar Armor
+Lamellar armor is made of small bronze, iron, or steel plates laced together in parallel rows with silk, leather thongs, or cotton. It is similar to scale armor, from which it evolved, and comparable in protection to banded armor. Lamellar is generally worn as a cuirass over light chain or leather, and sometimes sewn to the backing. Lamellar would also include leather lames worn over chain. Historical examples include Mongolian lamellar, medieval brigandine and splinted armor, Japanese o-yori armor, and Roman lorica squamata.
+//
+Plate Armor
+Plate armor is made from large metal plates worn over the chest and vital areas. Chain mail or other protective covering may cover exposed joints. Plate armor provides superior protection over banded plate and lamellar, having larger plates sewn onto a stronger backing. Historical examples include classical panoply (if worn with arm and leg armor), medieval plate and mail armor, Middle Eastern mirror armor, Eastern European plated mail, and Japanese tatami-do. 
+//
+Ring Mail Armor
+Ring mail armor is leather or padded armor that has a large number of small rings sewn directly over the foundation garment. Unlike chain mail, the rings are not physically interlocked with each other, so protection is inferior.Ring mail is closely related to scale armor, which sews leather or horn scales onto the foundation garment, and provides comparable protection. Historical examples include Frankish ring mail, Asian ring armor on leather, and Renaissance eyelet doublets. 
+//
+Scale Armor
+Scale armor consists of many small leather, cuir bouilli, or horn scales attached to a backing material of cloth or leather. Scale armor usually consists of a corselet or hauberk worn with leather or padded cloth. It is lighter than lamellar armor, which uses metal scales or lames over leather, and comparable to ring mail. Historical examples include Scythian scale armor, Egyptian scale armor, and early medieval scale armor. 
+//
+Shield
+A character with a shield equipped has his Armor Class increased by 1 point. A shield does not protect a character that is surprised, retreating, or attacked from behind, however. 
+//
+Clothing
+Ordinary clothing provides no protection.
+//
+Hide Armor
+Armor made of cured animal hides provides very little protection, but it is cheap and widely available.
+//
+Fur Armor
+Armor made of layers of animal furs. Extremely uncomfortable in the summer.

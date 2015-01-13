@@ -1,0 +1,233 @@
+Backpack
+2gp
+Barrel (20 gallon)
+3sp
+Belladonna (1lb)
+10gp
+Blanket (wool, thick)
+2gp
+Birthwort (1lb)
+10gp
+Candle (tallow, 1lb)
+2sp
+Candle (wax, 1lb)
+6sp
+Chest (ironbound, holds 20 stone)
+22gp
+Comfrey (1lb)
+10gp
+Crowbar
+1gp
+Flask of Oil (common, 1 pint)
+3sp
+Flask of Oil (military, 1 pint)
+2gp
+Garlic (1lb)
+5gp
+Goldenrod (1lb)
+10gp
+Grappling Hook
+25gp
+Hammer (small)
+2gp
+Holy Symbol
+25gp
+Holy Water (1 pint)
+25gp
+Ink (1 oz.)
+8gp
+Iron Spikes (12)
+1gp
+Lantern
+10gp
+Lock
+20gp
+Mirror (hand-sized, steel)
+5gp
+Musical instrument
+25gp
+Pouch/Purse (holds 1/2stone)
+5sp
+Pole, Wooden (10' long)
+1sp
+Rations, Iron (one week)
+3gp
+Rations, Standard (one week)
+1gp
+Rope (50' length)
+1gp
+Sack (small, holds 2 stone)
+3sp
+Sack (large, holds 6 stone)
+8sp
+Spell Book (blank)
+20gp
+Stakes (4) and Mallet
+3gp
+Tent
+20gp
+Thieves' Tools
+25gp
+Tinder Box (flint & steel)
+8sp
+Torches (6)
+1sp
+Water/Wine Skin
+6sp
+Wolfsbane (1lb)
+10gp
+Woundwart (1lb)
+10gp
+Case with 20 Bolts
+2gp
+Quiver with 20 Arrows
+1gp
+1 Silver-Tipped Arrow
+5gp
+//Catapults and Ballista
+Ballista (800lb)
+80gp
+Ballista Shot
+2gp
+Heavy Catapult (1,800lb)
+200gp
+Light Catapult (1,200lb)
+100gp
+Catapult Shot (25lb)
+5gp
+Catapult Shot, Pitch (25lb)
+25gp
+Belt/Sash (leather)
+4sp
+Boots (leather, low)
+6sp
+Boots (leather, high)
+3gp
+Cassock (cleric/mage)
+7gp
+Cloak (fur-lined, winter)
+15gp
+Cloak (long, hooded)
+1gp
+Dress (crafter/freeholder)
+4gp
+Dress (armiger)
+20gp
+Gown (lady-in-waiting/noble)
+100gp
+Gown (duchess)
+1000gp
+Gloves
+4sp
+Hat (armiger)
+10sp
+Linen (cheap, 1 yard)
+1gp
+Linen (fine, 1 yard)
+7gp
+Robe (cleric/mage)
+6gp
+Silk (1 yard)
+15gp
+Sandals/Shoes (leather)
+4sp
+Tunic and Pants (serf)
+2gp
+Tunic and Pants (crafter/freeholder)
+4gp
+Tunic and Pants (armiger)
+20gp
+Tunic and Pants (noble)
+100gp
+Wool (cheap, 1 yard)
+6sp
+Wool (fine, 1 yard)
+6gp
+Chicken (3lb)
+1sp
+Cow (550lb)
+10gp
+Dog (hunting)
+10gp
+Dog (war)
+75gp
+Goat (125lb)
+3gp
+Hawk (trained)
+20gp
+Pig (125lb)
+3gp
+Sheep (80lb)
+2gp
+Ale/Beer (cheap, 3 pints)
+1cp
+Ale/Beer (good, 1 pint)
+2cp
+Bread (white, 4lb)
+1sp
+Bread (wheat, 8lb)
+1sp
+Bread (coarse, 12lb)
+1sp
+Cheese (1lb)
+5cp
+Cinnamon (clover, pepper, sugar) (1lb)
+3gp
+Dried Fruit (1lb)
+1sp
+Eggs (1 dozen)
+5cp
+Meat (beef, chicken, mutton, or pork, 1lb)
+1sp
+Saffron (1lb)
+15gp
+Wine (cheap, 1 pint)
+2cp
+Wine (good, 1 pint)
+1sp
+Wine (rare, 1 pint)
+5sp
+Cottage (wood)
+300gp
+Hut (wattle)
+25gp
+Hut (wooden)
+50gp
+Camel
+100gp
+Caparison (warhorse)
+20gp
+Cart, Small
+25gp
+Cart, Large
+50gp
+Donkey
+8gp
+Mule
+20gp
+Ox (2,000lb)
+40gp
+Saddle and Tack (draft)
+5gp
+Saddle and Tack (riding)
+10gp
+Saddle and Tack (war)
+25gp
+Saddlebags (leather)
+5gp
+Wagon
+200gp
+Heavy Draft Horse
+40gp
+Heavy Warhorse
+700gp
+Medium Draft Horse
+30gp
+Medium Riding Horse
+40gp
+Medium Warhorse
+250gp
+Light Riding Horse
+75gp
+Light Warhorse
+150gp

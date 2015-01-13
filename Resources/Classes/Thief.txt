@@ -1,0 +1,107 @@
+//RESERVED CHARACTERS
+// :
+// ****
+//Do not use any of these in the text of any powers, or things will break.  
+//Colons are fine anywhere outside of the Special Abilities or Class Values sections.
+//Do not lead off a line with // unless you are commenting it out.
+//Prime Requisite
+Dexterity
+//Requirements
+None
+//Maximum Level
+14
+//Weapon Proficiencies
+All Missile Weapons, All One-Handed Melee Weapons
+//Armor Proficiencies
+Leather Armor or Lighter
+//Fighting Styles
+Two-Handed, Dual-Wield
+*******************************************************
+//Class Values
+Fighting 1
+Thievery 3
+//OPTIONAL: Save Progression
+//Format: Save Progression: Name
+//The part after the colon can have any capitalization you want.
+//Legal options: Dwarf, Elf, Blessed.  Any other entry for save progression will be ignored.
+//Save Progression: Dwarf
+*******************************************************
+//Level Titles
+Footpad
+Hood
+Robber
+Burglar
+Rogue
+Scoundrel
+Pilferer
+Thief
+Master Thief
+Master Thief(10th)
+Master Thief(11th)
+Master Thief(12th)
+Master Thief(13th)
+Prince of Thieves
+*******************************************************
+//Experience Values
+0
+1250
+2500
+5000
+10000
+20000
+40000
+80000
+180000
+280000
+380000
+480000
+580000
+680000
+*******************************************************
+//Special Abilities
+1: Backstab x2: When a thief attacks an opponent unaware of his presence, he receives a +4 bonus to hit and deals increased damage (by level).
+4: Read Languages: A thief of 4th level or higher can read languages (including ciphers, treasure maps, and dead languages) with a proficiency throw of 5+ on 1d20.  If he fails, he cannot read that particular writing until he has gained a level.
+5: Backstab x3: A 5th level thief's backstab deals triple damage.
+9: Backstab x4: A 9th level thief's backstab deals quadruple damage.
+10: Read Scrolls: A 10th level or higher thief can read and cast magic from arcane scrolls with a proficiency throw of 3+ on 1d20.  However, a failed throw means that the spell does not function as expected, and can create a horrible effect at the Judge's discretion.
+13: Backstab x5: A 13th level thief's backstab deals quintuple damage.
+*******************************************************
+//Proficiency List
+Acrobatics
+Alertness
+Arcane Dabbling
+Blind Fighting
+Bribery
+Cat Burglary
+Combat Reflexes
+Combat Trickery (Disarm)
+Combat Trickery (Incapacitate)
+Contortionism
+Diplomacy
+Fighting Style
+Gambling
+Intimidation
+Lip Reading
+Lockpicking
+Mapping
+Precise Shooting
+Riding
+Running
+Seafaring
+Skirmishing
+Skulking
+Sniping
+Swashbuckling
+Trap Finding
+Weapon Finesse
+Weapon Focus
+*******************************************************
+//Thief Skills
+Open Locks
+Find Traps
+Remove Traps
+Pick Pockets
+Move Silently
+Climb Walls
+Hide In Shadows
+Hear Noise

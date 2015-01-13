@@ -1,0 +1,93 @@
+//RESERVED CHARACTERS
+// :
+// ****
+//Do not use any of these in the text of any powers, or things will break.  
+//Colons are fine anywhere outside of the Special Abilities section.
+//Do not lead off a line with // unless you are commenting it out.
+//Prime Requisite
+Wisdom
+//Requirements
+None
+//Maximum Level
+14
+//Weapon Proficiencies
+Hammers, Maces, Club, Staff, Sling
+//Armor Proficiencies
+All Armor
+//Fighting Styles
+Two-Handed, Shield
+*******************************************************
+//Class Values
+Fighting 1
+Hit Dice 1
+Divine 2
+*******************************************************
+//Level Titles
+Catechist
+Acolyte
+Priest
+Curate
+Vicar
+Rector
+Prelate
+Bishop
+Patriarch
+Patriarch(10th)
+Patriarch(11th)
+Patriarch(12th)
+Patriarch(13th)
+Theocrat
+*******************************************************
+//Experience Values
+0
+1500
+3000
+6000
+12000
+24000
+50000
+100000
+200000
+300000
+400000
+500000
+600000
+700000
+*******************************************************
+//Special Abilities
+1: Turn Undead: A 1st level cleric may Turn Undead using the rules in ACKS Core pg 21.  Chaotic clerics instead Control Undead.
+2: Spellcasting: A 2nd level cleric may manifest their deity's power in the form of divine spells.
+5: Research Spells, Scribe Scrolls, Brew Potions: A 5th level cleric may research spells, scribe scrolls, and brew potions using magical research.
+9: Craft Magic Items: A 9th level cleric may create more powerful magic items such as weapons, rings, and staffs.
+11: Ritual Magic, Craft Constructs: A 11th level cleric may learn and cast ritual divine spells of great power (6th and 7th level) and craft magical constructs.  If Chaotic, he may also create undead.
+*******************************************************
+//Proficiency List
+Apostasy
+Battle Magic
+Beast Friendship
+Combat Trickery (Force Back)
+Combat Trickery (Overrun)
+Combat Trickery (Sunder)
+Command
+Contemplation
+Diplomacy
+Divine Blessing
+Divine Health
+Fighting Style
+Healing
+Knowledge (history)
+Laying on Hands
+Leadership
+Loremastery
+Magical Engineering
+Martial Training
+Prestidigitation
+Profession (judge)
+Prophecy
+Quiet Magic
+Righteous Turning
+Sensing Evil
+Sensing Power 
+Theology
+Unflappable Casting
+Weapon Focus

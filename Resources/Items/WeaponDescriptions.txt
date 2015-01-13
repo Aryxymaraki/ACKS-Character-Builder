@@ -1,0 +1,83 @@
+Arbalest
+An arbalest is a heavy crossbow, pulled with the mechanical assistance of a rack and pinion or windlass. Historical examples include the late medieval arbalest and the Three Kingdoms era Chinese heavy crossbow.
+//
+Battle Axe
+This is a single- or double-bitted axe with a 24" to 48" haft, designed for battle and useable with one or two hands. Historical examples include the Scythian sagaris, Viking bearded and skeg axe, Celtic war axe, medieval battle axe, and Persian tabarzin.
+//
+Great Axe
+This is a double-bitted axe or long-shafted single-bitted axe, with a 48" or longer haft, requiring two hands to use. Historical examples included the Greek double-bitted labrys, Viking long bearded axe, and the English longaxe. Great axes impose a -1 penalty on initiative rolls. 
+//
+Hand Axe
+This is a single-bitted axe, with a 12" to 24" haft, balanced for throwing. Historical examples include the Frankish francisca, American tomahawk, and African mambele and kasuyu. 
+//
+Bola
+These are throwing weapons made of weights on the ends of interconnected cords, designed to capture animals by entangling their legs. A character can use a bola to make a knock down or wrestling maneuver (as described in special maneuversin Chapter 6) with a thrown attack.
+//
+Composite Bow
+A composite bow is a recurved bow made of laminated wood, horn, and sinew. Composite bows are time consuming and expensive to craft but offer a better combination of mobility and power than longbows or shortbows. Historical examples include the Scythian horn bow, Chinese laminated bamboo bow, Greek and Roman composite bow, Mongolian composite bow, and Japanese yumi. 
+//
+Longbow
+A long bow is made from a single piece of wood, as tall as the person who uses it. Equal in range and power to more expensive composite bows, longbows require substantial strength (STR 9 or more) and cannot be used by mounted troops. Historical examples include the ancient Indian longbow, the Nubian longbow, and the Welsh and English longbow. 
+//
+Shortbow
+A short bow is made from a single piece of wood, usually around 4' tall. Shortbows lack the range and power of either longbows or composite bows, but are cheap and fast to make. Historical examples include the Neolithic short bow and Comanche self bow. 
+//
+Club
+A club is any simple bludgeon used to batter opponents.
+//
+Crossbow
+A crossbow is a bow mounted cross-wise on a stock with a trigger. It fires squat projectiles called bolts. Crossbows are light enough to pull by hand or with a quick drawing lever and are much easier to use than bows. Historical examples are the Greek gastraphetes, Roman arcuballista, Chinese handheld crossbow, and medieval crossbow and cavalry cranequin. 
+//
+Dagger
+A dagger has a small 6" to 12" blade, either single-edged for cutting, or doubled edged for stabbing. Daggers may be used in melee or for throwing. Historical examples include the Asian kris, medieval poniard, Japanese tanto, Scottish dirk, and Renaissance stiletto. Some daggers have blades coated with silver for use against enchanted creatures.
+//
+Dart
+A dart is any small projectile designed to be thrown. Most darts are fletched wooden shafts, ranging in length from 6" to 2' long, but they may also be metal spikes or stars. Historical examples include the Roman plumbata, Macedonian kestros, and Japanese shuriken.
+//
+Flail
+This is a bludgeoning weapon derived from the agricultural flail with a striking head connected to the haft by a flexible chain. Flails are useable with one or two hands. Historical examples include the medieval ball-and-chain, Japanese rentsuru and nunchaku, and Chinese meteor hammer.
+//
+Javelin
+Javelins are short spears, 3' to 6' long, designed for throwing. Historical examples include the Greek javelin, Roman pilum and verutum, early medieval angon, and Zulu assegai. 
+//
+Lance
+Lances are long spears, 12' to 16' in length, designed for mounted warriors. Despite their length, they are used one-handed. Historical examples include the Greek xyston, Persian and Byzantine kontos, and medieval lance. Lances do double damage when used to charge, but impose a -1 penalty on initiative rolls.
+//
+Mace
+A mace is a bludgeoning weapon consisting of a 2' to 3' wood or metal shaft and a heavy stone or metal head, useable with one or two hands. Historical examples include the Egyptian bronze-headed mace, medieval flanged mace, Persian horseman's mace, Russian pernach, and Slavic bulawa. 
+//
+Morning Star
+This is any type of large mace-liked weapon with a spiked metal head. Historical examples include the medieval morning star, German chain-morning star, English holy water sprinkler, Flemish goedendag, and Japanese tetsubo. Any flails and maces too large to be used one-handed can also be treated as morning stars. Morning stars impose a -1 penalty on initiative rolls.
+//
+Net
+This is a round, weighted cast net designed to entangle and entrap opponents. The chief historical example is the net of the Roman retiarius. A character using a net gets a +2 bonus on attack throws to wrestle opponents (as explained under special maneuvers in Chapter 6).
+//
+Pole Arm
+Pole arms are two-handed slashing and piercing weapons with a metal head and a long wooden shaft. Pole arms range in length from 6' to 21'. Historical examples include the Thracian rhomphaia, Dacian falx, and Macedonian sarissa; the medieval bill, fauchard, glaive, guisarme, halberd, partisan, pike, ranseur, spetum, and voulge; the Chinese gun dao; and the Japanese bisento, nagamaki, and naginata. Pole arms can be used to attack from the second rank in melee, and inflict double damage when used in or against a charge, but impose a -1 penalty on initiative rolls.
+//
+Sap
+A sap consists of a heavyweight material wrapped inside a leather sack. Used as a weapon, it provides a +2 bonus to attack throws made to incapacitate opponents (as described in Special Maneuvers in Chapter 6).
+//
+Sling
+A sling is a projectile weapon, made of braided flax, hemp or wool cord, used to hurl small stones or lead bullets. Slings were used by all armies of the ancient world. Historical examples include the Hebrew shepherd’s sling and Greek peltast’s sling. 
+//
+Spear
+Wooden shafts, 6' to 8' in length, with metal heads designed for thrusting, spears are the main weapon of the common soldier. Spears can be used one- or two-handed. Historical examples include the Hoplite doru, the medieval winged spear, and the Japanese yari. Characters armed with spears can attack from the second rank in melee and inflict double damage when used in or against a charge.
+//
+Staff
+A staff is a common weapon made from a stick of hardwood 4' to 6' long, and used two-handed. (If used one-handed, treat as a club.) Historical examples include the English quarterstaff, Japanese bo stick, and Chinese gun. 
+//
+Sword
+The classic weapon of knights and kings, the sword includes straight and curved slashing and thrusting blades of 30" to 40" in length useable with one or two hands. Historical examples include the Roman spatha, Viking sword, medieval knightly sword and falchion, Japanese katana, and Chinese jian and dao. 
+//
+Short Sword
+The short sword includes straight and curved slashing and thrusting blades, generally less than 30" in length, meant to be used with one hand. Historical examples include the Egyptian khopesh, Greek xiphos, Roman gladius, Japanese wakizashi, Arab scimitar, Persian shamshir, Turkish yatagan, and Indian talwar. 
+//
+Two-Handed Sword
+The two-handed sword includes straight and curved slashing and thrusting blades, 40" or more in length, requiring two hands to use effectively. Historical examples include the medieval longsword, the Renaissance zweihänder, Scottish claymore, Japanese no-dachi, and Chinese zhanmadao. Two-handed swords impose a -1 penalty on initiative rolls.
+//
+War Hammer
+A warhammer is a bludgeoning weapon with a 2' to 3' wooden or metal shaft and a broad metal head shaped like a hammer. It is designed for crushing armor, and useable with one or two hands. The chief historical example is the late medieval warhammer.
+//
+Whip
+This is a long, single-tailed whip of the sort used to herd cattle. Used as a weapon, it provides a +2 bonus to attack throws made to disarm or knock down opponents (as described in Special Maneuvers in Chapter 6).

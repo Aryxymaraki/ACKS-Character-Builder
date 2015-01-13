@@ -1,0 +1,97 @@
+//RESERVED CHARACTERS
+// :
+// ****
+//Do not use any of these in the text of any powers, or things will break.  
+//Colons are fine anywhere outside of the Special Abilities or Class Values sections.
+//Do not lead off a line with // unless you are commenting it out.
+//Prime Requisite
+Strength
+//Requirements
+None
+//Maximum Level
+14
+//Weapon Proficiencies
+All Weapons
+//Armor Proficiencies
+All Armor
+//Fighting Styles
+Two-Handed, Shield, Dual-Wield
+*******************************************************
+//Class Values
+Fighting 2
+Hit Dice 2
+//OPTIONAL: Save Progression
+//Format: Save Progression: Name
+//The part after the colon can have any capitalization you want.
+//Legal options: Dwarf, Elf, Blessed.  Any other entry for save progression will be ignored.
+//Save Progression: Dwarf
+*******************************************************
+//Level Titles
+Man-At-Arms
+Warrior
+Swordmaster
+Hero
+Exemplar
+Myrmidon
+Champion
+Epic Hero
+Warlord
+Warlord(10th)
+Warlord(11th)
+Warlord(12th)
+Warlord(13th)
+Overlord
+*******************************************************
+//Experience Values
+0
+2000
+4000
+8000
+16000
+32000
+65000
+130000
+250000
+370000
+490000
+610000
+730000
+850000
+*******************************************************
+//Special Abilities
+1: Damage Bonus +1: At first level, a fighter adds one point of damage to all successful melee and missile attacks.
+3: Damage Bonus +2: At third level, a fighter's damage bonus increases to +2.
+5: Battlefield Prowess: When a fighter reaches 5th level, his battlefield prowess inspires others to follow him.  Any henchmen and mercenaries hired by the fighter gain a +1 bonus to their morale score whenever he personally leads them.  This bonus stacks with any modifiers from the fighter's Charisma or proficiencies.
+6: Damage Bonus +3: At sixth level, a fighter's damage bonus increases to +3.
+9: Damage Bonus +4: At ninth level, a fighter's damage bonus increases to +4.
+12: Damage Bonus +5: At twelfth level, a fighter's damage bonus increases to +5.
+*******************************************************
+//Proficiency List
+Acrobatics
+Alertness
+Berserkergang
+Blind Fighting
+Combat Reflexes
+Combat Trickery (Disarm)
+Combat Trickery (Force Back)
+Combat Trickery (Knock Down)
+Combat Trickery (Overrun)
+Combat Trickery (Sunder)
+Command
+Dungeon Bashing
+Endurance
+Fighting Style
+Gambling
+Intimidation
+Leadership
+Manual of Arms
+Military Strategy
+Precise Shooting
+Riding
+Running
+Siege Engineering
+Skirmishing
+Survival
+Swashbuckling
+Weapon Finesse
+Weapon Focus

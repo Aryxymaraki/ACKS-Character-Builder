@@ -1,0 +1,299 @@
+Backpack
+A backpack has two straps and can be worn on the back, keeping the hands free. It holds up to 4 stone (40lb).
+//
+Barrel
+A 20 gallon wooden barrel with iron bands for structure.
+//
+Blanket
+A thick woolen blanket, great for winter nights.
+//
+Ballista
+A siege weapon, powered either by composite bow or torsion spring mechanisms, which hurls large bolts. Historical examples include the Greek oxybeles, Roman ballista, and medieval springald. 
+//
+Belladonna
+Belladonna, also known as deadly nightshade, is a poisonous flower. A character who eats a pound of belladonna within one hour of being infected with lycanthropy may make a saving throw versus Poison to shake off the affliction. If the character fails the saving throw, however, he dies from the poison after one turn. Even if the poison is then neutralized or the character is raised from the dead, he will still be afflicted with lycanthropy, and further doses of belladonna will be of no use. 
+//
+Belt/Sash
+A leather belt or sash.  Also referred to as a tactical pants-retaining system.
+//
+Birthwort
+Birthwort, also known as snakeroot, is a healing herb used as a remedy for snake bites and other poisons. Birthwort can be applied as a poultice to a poisoned wound by an adventurer with the Healing proficiency. Used in this manner, it provides a +2 bonus on the Healing proficiency throw to neutralize poison. 
+//
+Boots
+Low boots come to mid-calf. High boots come to the knee or thigh and are popular for riding.
+//
+Candle
+A candle dimly illuminates a 5' radius and burns for 1 hour. Wax candles burn cleanly, but tallow candles produce a foul smelling smoke. Adventurers carrying tallow candles will never surprise creatures with keen olfactory senses. 
+//
+Cassock
+A clerical vestment.
+//
+Chest
+A heavy wooden and ironbound chest, capable of holding 20 stone of items.
+//
+Canoe
+A canoe consists of a frame of light wood wrapped with bark, hides, canvas, or other waterproofed covering. Canoes are primarily used on rivers and in swamps. Canoes have a 15' length, 5' beam, ½' draft, and can carry up to 60 stone (600lb) (plus crew). They can be carried overland by two people, at a cost of 5 stone of encumbrance. 
+//
+Cart, Small
+A small cart is an open, two-wheeled vehicle meant for personal transport. It may be pulled by one or two mules. If the cart is pulled by only one mule, it can transport up to 40 stone at 60' per turn, or up to 60 stone at 30' per turn. If pulled by two mules, it can transport up to 80 stone at 60' per turn, or up to 120 stone at 30' per turn. Carts may only move through deserts, mountains, forests, or swamps if a road is available.
+//
+Cart, Large
+A large cart is an open, two-wheeled vehicle meant for shipment. It may be pulled by one or two heavy horses. 2 mules or medium horses can be substituted for 1 heavy horse. If the cart is pulled by only one heavy horse, it can transport up to 80 stone at 60' per turn, or up to 120 stone at 30' per turn. If pulled by 2 heavy horses, it can transport up to 160 stone at 60' per turn, or up to 240 stone at 30' per turn. Carts may only move through deserts, mountains, forests, or swamps if a road is available.
+//
+Heavy Catapult
+A catapult is a siege weapon, powered by either torsion or fixed counter-weight mechanisms, which hurls rocks, burning pitch, or other projectiles. Heavy catapults inflict 4d6 damage in a 10' radius. Historical examples include the Roman onager and medieval mangonel and couillard.
+//
+Light Catapult
+A catapult is a siege weapon, powered by either torsion or fixed counter-weight mechanisms, which hurls rocks, burning pitch, or other projectiles. Light catapults inflict 3d6 damage in a 5' radius. Historical examples include the Roman onager and medieval mangonel and couillard.
+//
+Catapult Shot
+A 25-lb rock or similar dense chunk of material suitable for firing out of a catapult.
+//
+Catapult Shot, Pitch
+A ball of pitch suitable for lighting on fire and firing out of a catapult.
+//
+Cloak
+A cloak is a cloth, fur, or leather garment of knee to ankle length, worn outdoors like an overcoat. Cloaks usually include a hood. Adventurers often favor military cloaks, generally worn pinned on one shoulder for ease of movement and access to a sword.
+//
+Comfrey
+Comfrey, also known as bruisewort and knitbone, is a powerful healing herb. An adventurer with Healing proficiency can use a poultice of comfrey to treat a wounded character immediately after a battle. This restores 1d3hp of damage. A character cannot be treated with comfrey more than once per day.
+//
+Crowbar
+A crowbar is 2' to 3' long and made of solid iron. This object can be used for forcing doors and other objects open.
+//
+Dog
+Hunting dogs are fast, lean hounds trained to track and bring down prey by working in packs. Most hunting dogs can scent prey, giving them the equivalent of Tracking proficiency. War dogs are heavy, fierce mastiffs trained to kill on command. While dangerous, they are capable of great loyalty to their masters when properly trained. See the Monsters chapter for game statistics.
+//
+Donkey
+A donkey can carry its normal load of 8 stone and move 120' per turn. A donkey can carry its maximum load of 16 stone and move 60' per turn. 
+//
+Dress
+A woman's garment suitable for formal occasions.  The quality of dress determines the social level of formal occasions at which it would be common.
+//
+Gown
+An exceptionally high-quality dress.
+//
+Garlic
+Garlic causes a vampire to cringe for 1d4 rounds if presented with confidence. 
+//
+Gloves
+Gloves are garments covering the hands, worn for comfort, fashion, or protection. However, wearing gloves does not protect against curses or slime. Thief abilities such as picking pockets, opening locks, or removing traps cannot be performed while wearing gloves. 
+//
+Goldenrod
+Goldenrod is a healing herb used to treat diseases such as rheumatism, gout, and consumption. An adventurer with Healing proficiency can use a goldenrod tincture to treat sick characters. Used in this manner, it provides a +2 bonus on the Healing proficiency throw to cure disease. 
+//
+Grappling Hook
+These large hooks are made of sturdy iron and can be used for anchoring a rope. The hook may be thrown or attached manually by a climber. A successful attack throw is required to throw a grappling hook onto a target. 
+//
+Hammer
+The small hammer can be used for construction or as a mallet with iron or wooden spikes. If used to fight, the small hammer deals 1d4 points of damage.
+//
+Hat
+A hat is a cap, fez, turban, or other headgear for protecting the head from the elements. 
+//
+Holy Symbol
+A cleric is required to own a holy symbol. These symbols will be different for each religion, but they are often worn as a necklace.
+//
+Holy Water
+Holy water is water that has been blessed by a cleric of 7th level or higher. It is used in some church rituals, and is a formidable weapon against the undead, inflicting 1d8 points of damage for 2 rounds. Holy water cannot retain its holy power if it is stored in any other container than the special vials it is placed in when blessed.
+//
+Heavy Draft Horse
+A heavy horse can carry its normal load of 40 stone and move 120' per turn. A heavy horse can carry its maximum load of 80 stone and move 60' per turn. Heavy horses are normally trained for draft. Only a small percentage of the otherwise placid heavy horses can be trained for war. A historical example is the medieval destrier (warhorse).
+//
+Heavy Warhorse
+A heavy horse can carry its normal load of 40 stone and move 120' per turn. A heavy horse can carry its maximum load of 80 stone and move 60' per turn. Heavy horses are normally trained for draft. Only a small percentage of the otherwise placid heavy horses can be trained for war. A historical example is the medieval destrier (warhorse).
+//
+Light Riding Horse
+A light horse can carry its normal load of 20 stone and move at 240' per turn. A light horse can carry its maximum load of 40 stone and move at 120' per turn. Light horses are trained for riding or war. Historical examples include the medieval palfrey and jennet (riding horse), medieval rouncey (warhorse), and Mongolian and Turkoman horse. 
+//
+Light Warhorse
+A light horse can carry its normal load of 20 stone and move at 240' per turn. A light horse can carry its maximum load of 40 stone and move at 120' per turn. Light horses are trained for riding or war. Historical examples include the medieval palfrey and jennet (riding horse), medieval rouncey (warhorse), and Mongolian and Turkoman horse. 
+//
+Medium Draft Horse
+A medium horse can carry its normal load of 30 stone and move at 180' per turn. A medium horse can carry its maximum load of 60 stone and move at up to 90' per turn. Medium horses are trained for draft, riding, or war. Historical examples include the medieval hackney (draft or riding horse), medieval courser (warhorse), and Sarmatian medium horse.
+//
+Medium Riding Horse
+A medium horse can carry its normal load of 30 stone and move at 180' per turn. A medium horse can carry its maximum load of 60 stone and move at up to 90' per turn. Medium horses are trained for draft, riding, or war. Historical examples include the medieval hackney (draft or riding horse), medieval courser (warhorse), and Sarmatian medium horse.
+//
+Medium Warhorse
+A medium horse can carry its normal load of 30 stone and move at 180' per turn. A medium horse can carry its maximum load of 60 stone and move at up to 90' per turn. Medium horses are trained for draft, riding, or war. Historical examples include the medieval hackney (draft or riding horse), medieval courser (warhorse), and Sarmatian medium horse.
+//
+Hut
+A hut is a 10' square building with an earthen floor and thatched roof. Serfs, unskilled laborers, and other working poor generally live in such homely dwellings. 
+//
+Ink
+This is a small pot of black ink. Ink can be purchased in other colors, but it costs twice as much.
+//
+Iron Spikes
+These sturdy pitons can be used to wedge doors open or spike them shut or to provide belaying points for ropes. 
+//
+Lantern
+Lanterns are used in dungeon adventures to provide light. They burn one oil flask for each four hours, or 24 turns, and have an effective light radius of 30'. Lanterns can be closed to hide the light or protect it from wind. 
+//
+Linen
+A bolt of linen fabric.  Cheap linen is scratchy and falls apart easily, while fine linen is actually good.
+//
+Lock
+This is a common iron lock with a key. More complex locks, made my highly skilled locksmiths, might be available (Judge’s discretion); these impose penalties on a thief ’s proficiency throws to Open Locks. 
+//
+Manacles
+These are used to bind hands or feet. Characters bound with manacles can escape if they have the Contortionist proficiency (as described in Chapter 4), or by making a proficiency throw to Open Locks. 
+//
+Mirror
+A mirror can be used to check around corners and defend against monstrous gaze attacks. A character using a mirror to see his target suffers a -2 penalty to attack throws, and cannot use a shield, second weapon, or two-handed weapon.
+//
+Mule
+A mule is the infertile offspring of a horse and a donkey. It can carry its normal load of 20 stone and move 120' per turn. A mule can carry its maximum load of 40 stone and move 60' per turn.
+//
+Musical instrument
+A wide variety of instruments are available to bards and performers, including stringed instruments, percussion instruments, brass instruments, and woodwind instruments. Historical examples of stringed instruments are the cithara, harp, lyre, lute, psaltery, and zither. Historical percussion instruments include the castanet, chimes, drum, gong, sistrum, tambourine, and tympani. Historical brass instruments include the buccina, carnyx, cornu, and salpinx. Historical woodwind instruments include the aulos, flute, horn, pan pipe, and shawm. A common instrument costs 25gp. A superior instrument costs 50gp and adds +1 to Performance proficiency throws made with it. A masterpiece instrument costs 100gp and adds +2 to Performance proficiency throws made with it.
+//
+Flask of Oil
+Common oil is burned in a lantern to give light. Common oil is usually olive oil, castor oil, or animal extract. Military oil is a weapon made of naphtha, and cannot be easily doused with water. Military oil may be thrown at monsters, dealing 1d8points of damage for 2 rounds to the creature struck, or poured on the floor and ignited to delay pursuit. 
+//
+Ox
+An ox is a castrated bull, used for cart driving. An ox can carry its normal load of 45 stone and move 60' per turn. An ox can carry its maximum load of 90 stone and move 30' per turn. 
+//
+Pole, Wooden
+This pole is a shaft of wood 10' long and 2" thick. Adventurers often carry 10' poles to prod and poke areas that might be trapped, test the strength of ledges or floors, or measure the depth of pools. 
+//
+Pouch/Purse
+These are 6" x 1' bags of cloth or leather that can contain half a stone (5lb). They can be carried on a shoulder strap or on a belt. 
+//
+Rations, Iron
+This food is dried and preserved to be carried on long voyages when securing other food may be uncertain. It will last two months in the wilderness and a week in the foul conditions of a dungeon. The cost for iron rations will vary depending on quality. The cheapest iron rations consist of hard, dried salted biscuits. Better rations include salted or pickled meat and dried, pickled, or preserved fruit and vegetables. 
+//
+Rations, Standard
+This food is fresh but untreated. It will last for a week in the wilderness; it spoils overnight in dank dungeons. The cost for this food will vary depending on quality. The cheapest standard rations include fresh bread, cheese, and lard. Better standard rations will include bacon or other meat, eggs, beans, and fresh fruit and vegetables. 
+//
+Rope
+This strong rope, made of animal hair, hemp, or similar fibers, can bear 45 stone, the weight of approximately three human-sized beings.
+//
+Robe
+A full-body garment suitable for lounging around the lab, or answering the door if you're a powerful enough wizard to not care what you wear anymore.
+//
+Sack, Large
+This is a 2' x 4' burlap, cloth, or leather bag that can contain 6 stone (60lb). It is normally carried over the shoulder and dropped when combat begins.
+//
+Sack
+A small sack is a 1' x 2' burlap, cloth, or leather bag that can contain 2 stone (20lb). It is often tied to a belt or spearhead. A large sack is a 2' x 4' burlap, cloth, or leather bag that can contain 6 stone (60lb). It is normally carried over the shoulder and dropped when combat begins.
+//
+Saddle and Tack
+This includes a leather and wooden saddle with metal fastenings, a leather and metal bridle and bit, and stirrups. Draft saddle and tack is used to harness to a cart or wagon or carry saddle bags; it cannot be used for riding. Riding saddle and tack is designed for the rider's comfort. Military saddle and tack is designed for stability during combat. A character in combat without a military saddle must save versus Paralysis every time he is dealt damage or be knocked off the horse. 
+//
+Saddlebags
+A saddle bag is a long pocketed leather sack that can contain 3 stone (30lb).
+//
+Silk
+A high-quality fabric.  Silk is both flame-resistant and an insulator, making is a fine choice for wrapping your hands in before performing magical research.
+//
+Shoes
+Simple leather shoes or sandals are suitable for walking long distances.
+//
+Sandals/Shoes
+Simple leather shoes or sandals are suitable for walking long distances.
+//
+Spell Book
+A spell book has 100 pages of parchment, and each spell takes up one page per spell level (one page each for 1st level spells). These books are used by arcane spellcasters to record the spells in their repertoire.
+//
+Stakes
+These 18" sharpened wood shafts are carried by adventures to destroy vampires. 
+//
+Tent
+A crude tent consisting of a tarp and stakes.  Poles must be carried or cut each night.
+//
+Thieves' Tools
+Thieves' tools include long metal picks and probes, fine wires, tiny saws, miniature hammers, and an assortment of skeleton keys. Thieves' tools are required to make proficiency throws to open locks and remove traps. 
+//
+Tinder Box
+This is a tinderbox used to start fires. Lighting a torch with flint and steel takes a full round, and lighting any other fire with them takes at least that long.
+//
+Torches
+Torches are 1' to 2' long pieces of wood tipped with pitch. A torch burns for six turns (1 hour), clearly illuminating a 30' radius. If a torch is used in combat, it deals 1d4 points of damage.
+//
+Tunic and Pants
+Everything you need to cover your flesh slug from the piercing eyes of the world.
+//
+Water/Wine Skin
+This container, made of hide or preserved animal bladder, will hold 2 pints (1 quart) of fluid.
+//
+Wolfsbane
+Wolfsbane (dried aconite flowers) may drive off werewolves and other lycanthropes if a character strikes the monster in hand-to-hand combat with the sprig. If the lycanthrope fails a saving throw versus Poison, it must flee as if turned. A character who eats wolfsbane must make a saving throw versus Poison or die after one turn.
+//
+Woundwart
+Woundwart, also known as heal-all or lamb's ears, is a herbal medicine with curative properties. An adventurer with Healing proficiency can use a woundwart tincture to treat injured characters. Used in this manner, it provides a +2 bonus on proficiency throws to cure light wounds and cure serious wounds.
+//
+Wool
+A fabric made from the hair of sheep.  Wool is warm and fluffy, though cheap wool is scratchy and smells horrible when wet.  Fine wool is much more comfortable, and the smell is greatly reduced.
+//
+Case with 20 Bolts
+A bolt case containing 20 crossbow bolts.
+//
+Quiver with 20 Arrows
+A quiver containing 20 arrows.
+//
+1 Silver-Tipped Arrow
+A single arrow with a silver head.  Great for shooting lycanthropes in their black heart.
+//
+Ballista Shot
+An enormous crossbow bolt for use with a ballista.
+//
+Chicken
+A delicious and nutritous source of self-propelled proteins.
+//
+Cow
+Much less mobile than a chicken, cows are however more delicious.
+//
+Goat
+gote.
+//
+Hawk
+A trained hawk is not nearly as reliable as a trained dog, as a hunting bird is only ever truly loyal to its trainer.  However, as long as you ask it to do things it likes to do, it will usually do them.
+//
+Pig
+The most magical nonmagical animal in the world.  Bacon, ham, and pork.
+//
+Sheep
+I am running out of ways to make animal descriptions interesting.
+//
+Ale/Beer
+A common alcoholic drink containing between 2% and 6% alcohol.  Cheap beer often tastes like orc spit, depending how cheap it is.
+//
+Bread
+White bread is more expensive than wheat bread and tastes worse.  Yeah I said it.  Coarse bread in medieval times is not the same as coarse bread of today, and often includes fun mix-ins like sawdust and weevils.
+//
+Cheese
+Almost exclusively hard cheeses, as soft cheeses go bad too quickly.
+//
+Cinnamon
+Cinnamomum cassia.  Cinnamomum verum is more expensive.
+//
+Dried Fruit
+Elven iron rations contain a high percentage of dried fruit, but no helmets to wash them down with.
+//
+Eggs
+Chicken eggs.  Other kinds of eggs are available in some places, but are more expensive.
+//
+Meat
+Beef, chicken, mutton and pork, the equipment list has it all.  Other meats may be available in some places.
+//
+Saffron
+One pound of saffron is way cheaper here than it is in the modern world, as according to a quick amazon check 1 lb of saffron would cost about 3,000 dollars.
+//
+Wine
+Wine ranges from the dregs that the brewer couldn't manage to keep down up to ancient elven vintages from times gone by.
+//
+Cottage
+A cottage is a 20' high, 30' square wooden building with a thatched roof and earthen floor, suitable for a wealthy peasant family. 
+//
+Camel
+A common desert dromedary.  Camels can go for up to a week without food or water with no ill effects.
+//
+Caparison
+A caparison is a decorated horse-blanket.
+//
+Wagon
+This is a four-wheeled, open vehicle for transporting heavy loads. Generally, two or four heavy horses draw a wagon. Two mules or medium horses can be substituted for one heavy horse. If the wagon is pulled by two heavy horses, it can transport up to 160 stone at 60' per turn, or 320 stone at 30' per turn. If the wagon is pulled by four heavy horses, it can transport up to 320 stone at 60' per turn, or up to 640 stone at 30' per turn. A wagon can move at a similar speed and conditions as a cart.
+//
+
+

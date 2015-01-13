@@ -1,0 +1,89 @@
+//RESERVED CHARACTERS
+// :
+// ****
+//Do not use any of these in the text of any powers, or things will break.  
+//Colons are fine anywhere outside of the Special Abilities section.
+//Do not lead off a line with // unless you are commenting it out.
+//Prime Requisite
+Intelligence
+//Requirements
+None
+//Maximum Level
+14
+//Weapon Proficiencies
+Staff, Club, Dagger, Dart
+//Armor Proficiencies
+No Armor
+//Fighting Styles
+Two-Handed
+*******************************************************
+//Class Values
+Arcane 4
+*******************************************************
+//Level Titles
+Arcanist
+Seer
+Theurgist
+Magician
+Thaumaturge
+Enchanter
+Sorcerer
+Mage
+Wizard
+Wizard(10th)
+Wizard(11th)
+Wizard(12th)
+Wizard(13th)
+Archmage
+*******************************************************
+//Experience Values
+0
+2500
+5000
+10000
+20000
+40000
+80000
+160000
+310000
+460000
+610000
+760000
+910000
+1060000
+*******************************************************
+//Special Abilities
+1: Spellcasting: A wizard can learn and cast powerful arcane spells; see the Spellcasting tab.
+5: Research Spells, Scribe Scrolls, Brew Potions: A 5th level wizard can perform magical research to learn new spells, scribe scrolls, and brew potions.
+9: Magic Item Creation: A 9th level wizard can create powerful magic items such as weapons, rings, and staffs.
+11: Ritual Magic, Constructs, Crossbreeds, Undead: A 11th level wizard can learn and cast ritual spells of great power (7th, 8th, and 9th level).  He can also craft constructs and crossbreeds, and if Chaotic, may create undead.
+*******************************************************
+//Proficiency List
+Alchemy
+Battle Magic
+Beast Friendship
+Black Lore
+Collegiate Wizardry
+Craft
+Diplomacy
+Elementalism
+Elven Bloodline
+Engineering
+Familiar
+Healing
+Illusion Resistance
+Knowledge
+Language
+Loremastery
+Magical Engineering
+Mapping
+Mystic Aura
+Naturalism
+Quiet Magic
+Performance
+Prestidigitation
+Profession
+Sensing Power
+Transmogrification
+Soothsaying
+Unflappable Casting

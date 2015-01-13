@@ -1,0 +1,127 @@
+//Format;
+//Weapon Name
+//Weapon Cost (Number gp).  No space.
+//Weapon Damage
+//Where weapon damage has a /, it is one-handed / two-handed damage.
+//Weapon Range Type (Ranged, Thrown, or Melee).  Can be more than one if separated by a comma.
+//Axes
+Battle Axe
+7gp
+1d6/1d8
+Melee
+Great Axe
+10gp
+1d10
+Melee
+Hand Axe
+4gp
+1d6
+Melee,Thrown
+//Bows and Crossbows
+Arbalest
+50gp
+1d8
+Ranged
+Crossbow
+30gp
+1d6
+Ranged
+Composite Bow
+40gp
+1d6
+Ranged
+Longbow
+7gp
+1d6
+Ranged
+Shortbow
+3gp
+1d6
+Ranged
+//Flails, Hammers, and Maces
+Club
+1gp
+1d4
+Melee
+Flail
+5gp
+1d6/1d8
+Melee
+Mace
+5gp
+1d6/1d8
+Melee
+Morning Star
+10gp
+1d10
+Melee
+War Hammer
+5gp
+1d6/1d8
+Melee
+//Spears and Pole Arms
+Lance
+1gp
+1d10
+Melee
+Javelin
+1gp
+1d6
+Melee,Thrown
+Pole Arm
+7gp
+1d10
+Melee
+Spear
+3gp
+1d6/1d8
+Melee,Thrown
+Dagger
+3gp
+1d4
+Melee,Thrown
+Silver Dagger
+30gp
+1d4
+Melee,Thrown
+Short Sword
+7gp
+1d6
+Melee
+Sword
+10gp
+1d6/1d8
+Melee
+Two-Handed Sword
+15gp
+1d10
+Melee
+//Other Weapons
+Bola
+5gp
+1d2
+Ranged
+Darts (5)
+2gp
+1d4
+Thrown
+Net
+1gp
+-
+Ranged
+Sling with 30 Sling Bullets
+2gp
+1d4
+Ranged
+Sap
+1gp
+1d4
+Melee
+Staff
+1gp
+1d4/1d6
+Melee
+Whip
+5gp
+1d2
+Melee

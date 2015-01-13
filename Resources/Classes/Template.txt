@@ -1,0 +1,46 @@
+//RESERVED CHARACTERS
+// :
+// ****
+//Do not use any of these in the text of any powers, or things will break.  
+//Colons are fine anywhere outside of the Special Abilities section.
+//Do not lead off a line with // unless you are commenting it out.
+//Prime Requisite
+Prime Req 
+//Requirements
+Reqs
+//Maximum Level
+Max Level: A Number
+//Weapon Proficiencies
+One line
+//Armor Proficiencies
+One line
+//Fighting Styles
+One line
+*******************************************************
+//Class Values
+Fighting 2
+Hit Dice 2
+*******************************************************
+//Level Titles
+One line per title
+*******************************************************
+//Experience Values
+0
+2000
+4000
+8000
+16000
+32000
+65000
+130000
+250000
+370000
+490000
+610000
+730000
+850000
+*******************************************************
+//Special Abilities
+1: Short Description: Long Description
+*******************************************************
+//Proficiency List
